@@ -8,8 +8,8 @@
 
 //find the area of tabloid phtoshop web document
 
-var width = 11;
-var height = 17;
+var width = 40;
+var height = 80;
 var area = width * height
 console.log(area);
 
