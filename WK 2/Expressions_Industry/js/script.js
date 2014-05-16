@@ -1,6 +1,6 @@
 //photoshop U.S. Paper document size width and height in pixels
- var inchesInwidth = 2250;
- var inchesInheight = 3300; 
+ var inchesInwidth = 1000;
+ var inchesInheight = 3000; 
 
  console.log(inchesInwidth);
  console.log(inchesInheight);
