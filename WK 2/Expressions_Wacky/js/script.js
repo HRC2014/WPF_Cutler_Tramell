@@ -1,17 +1,17 @@
 //car information
 
-var carModel = "G 35";
+var carModel = "LS 460";
 prompt("What is the model of your car?");
 console.log(carModel);
 
-var carYear = 2008;
+var carYear = 2011;
 prompt("What year is the year of your car?");
  console.log(carYear);
 
- var carColor = "Black"
+ var carColor = "Silver"
  prompt("What color is your car?");
  console.log(carColor);
 
- var carMake = "Infinity"
+ var carMake = "Lexus"
  prompt("What is the make of your car?");
  console.log(carMake);
