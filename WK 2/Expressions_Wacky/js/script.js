@@ -1,17 +1,17 @@
 //car information
 
-var carModel = "Plymouth Fury III";
+var carModel = "Yukon Denali";
 prompt("What is the model of your car?");
 console.log(carModel);
 
-var carYear = 1965;
+var carYear = 2005;
 prompt("What year is the year of your car?");
  console.log(carYear);
 
- var carColor = "Red"
+ var carColor = "White"
  prompt("What color is your car?");
  console.log(carColor);
 
- var carMake = "Dodge"
+ var carMake = "GMC"
  prompt("What is the make of your car?");
  console.log(carMake);

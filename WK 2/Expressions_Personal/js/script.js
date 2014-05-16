@@ -1,8 +1,8 @@
-//Pick choice of bodywash
+//Favorite color
 
-var bodyWash = prompt ("What kind of bodywash do you use?");
-
-console.log(bodyWash);
+var yearBorn = "1981";
+prompt("What year where you born?");
+console.log(yearBorn);
 
 
 

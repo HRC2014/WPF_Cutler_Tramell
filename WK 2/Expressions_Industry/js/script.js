@@ -1,22 +1,22 @@
 //photoshop U.S. Paper document size width and height in pixels
- var pixelsInwidth = 2250;
- var pixelsInheight = 3300; 
+ var inchesInwidth = 2250;
+ var inchesInheight = 3300; 
 
- console.log(pixelsInwidth);
- console.log(pixelsInheight);
+ console.log(inchesInwidth);
+ console.log(inchesInheight);
 
 
-//find the area of phtoshop web document
+//find the area of tabloid phtoshop web document
 
 var width = 11;
-var height = 8;
+var height = 17;
 var area = width * height
 console.log(area);
 
 
 //Number of color modes in photoshop
 
-var colorMode = [1, 1, 1, 1];
+var colorMode = [5, 5, 5, 5];
 
 var total = colorMode[0] + colorMode[1] + colorMode[2] + colorMode[3];
 
