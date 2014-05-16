@@ -1,8 +1,12 @@
-//Favorite color
+//Personal Info
 
-var yearBorn = "1981";
-prompt("What year where you born?");
-console.log(yearBorn);
+var birthPlace = "1981";
+prompt("Where where you born?");
+console.log(birthPlace);
+
+
+
+
 
 
 
