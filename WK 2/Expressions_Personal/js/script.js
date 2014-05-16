@@ -1,8 +1,8 @@
 //Personal Info
 //yearBorn
-var state = "NC";
+var city = "Panyego";
 prompt("What state are you in?");
-console.log(state);
+console.log(city);
 
 
 
