@@ -1,9 +1,14 @@
-//conditional - Tenerary Operator
+//conditional - else if
 
-var version = 12;
+var jobReq = 1000;
 
-var macBook;
+var stateReq = 999;
 
-//if students do not have version 12 macBook or above use, other than that do not use
-macBook = (version < 11) ? "Use" : "Do Not Use";
-console.log(macBook);
+//if employee has 1000 working hours he can apply for operator certification with job
+//if employee has under 1000 working hours he has to apply through the state
+if(stateReq < jobReq){
+console.log("Apply With Job");
+}else{
+console.log("Apply With State");
+}
+
