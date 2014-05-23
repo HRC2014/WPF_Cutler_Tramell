@@ -1,3 +1,5 @@
+//conditional - Tenerary Operator
+
 var version = 12;
 
 var macBook;
